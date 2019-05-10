@@ -5,12 +5,6 @@ authors = ["lqd"]
 edition = "2018"
 
 [dependencies]
-chrono = "*"
-dotenv = "*"
-futures = "*"
 hyper = "*"
 juniper = "*"
-juniper_hyper = "*"
-log="*"
-uuid="*"
-pretty_env_logger = "0.3"
+futures = "*"
